@@ -1,0 +1,15 @@
+{
+  "name": "node_learn_001",
+  "version": "1.0.0",
+  "description": "Second file onto Node",
+  "main": "Index.js",
+  "scripts": {
+    "test": "node , nodejs"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Aleksandrov Kirill",
+  "license": "ISC"
+}
